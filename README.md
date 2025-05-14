@@ -121,6 +121,9 @@ The dataset used is `loan_data.csv`, containing 9578 records and 14 attributes, 
 
 ![image](https://github.com/user-attachments/assets/c84ae7e2-ab9e-4ed6-921b-e2c6c4f5a3a0)
 
+![image](https://github.com/user-attachments/assets/af1300dd-8f0b-48bb-a8af-a360a5362540)
+
+![image](https://github.com/user-attachments/assets/5fdad90b-277d-4fe9-8151-27c77f40d722)
 
 
 ---

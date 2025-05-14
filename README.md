@@ -123,7 +123,7 @@ The dataset used is `loan_data.csv`, containing 9578 records and 14 attributes, 
 
 For any questions or suggestions, feel free to open an issue or reach out:
 
-* [GitHub]([https://github.com/Poonam-2704])
+* [GitHub]((https://github.com/Poonam-2704))
 
 ---
 

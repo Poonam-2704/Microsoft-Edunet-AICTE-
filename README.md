@@ -80,7 +80,7 @@ The dataset used is `loan_data.csv`, containing 9578 records and 14 attributes, 
    ```bash
    git clone https://github.com/your-username/loan-default-prediction.git
    cd loan-default-prediction
-````
+```
 
 2. **Install dependencies**:
 

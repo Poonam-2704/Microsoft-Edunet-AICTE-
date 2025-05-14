@@ -43,11 +43,12 @@ The dataset used is `loan_data.csv`, containing 9578 records and 14 attributes, 
 ### 1. Data Loading & Exploration
 - Reading the dataset
 - Checking for null values, data types, and statistical summary
-  ---
+---
 
 ### 2. Data Preprocessing
 - Label Encoding categorical features (`purpose`)
 - Splitting dataset using `train_test_split`
+---
 
 ### 3. Data Visualization
 - Histograms for FICO scores

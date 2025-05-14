@@ -1,7 +1,5 @@
 # Microsoft-Edunet-AICTE
-Sure! Below is the same `README.md` content, now formatted for GitHub with proper markdown syntax and code blocks:
 
-````markdown
 # 📊 Loan Default Prediction
 
 This project builds a machine learning model to predict whether a loan will be fully paid or not using a Decision Tree Classifier. It covers data preprocessing, visualization, cross-validation, and hyperparameter tuning using GridSearchCV.

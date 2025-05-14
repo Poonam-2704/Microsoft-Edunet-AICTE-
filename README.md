@@ -115,17 +115,17 @@ The dataset used is `loan_data.csv`, containing 9578 records and 14 attributes, 
 
 ## 📷 Sample Visualizations
 
-> Include plots like heatmaps, jointplots, and histograms here using Markdown images or links.
+![image](https://github.com/user-attachments/assets/70547fbc-47d2-4911-967b-f24e7a506a48)
+
+![image](https://github.com/user-attachments/assets/b4c7a68f-2b80-4ce4-a3c8-fdb2a2bc51fb)
+
+![image](https://github.com/user-attachments/assets/c84ae7e2-ab9e-4ed6-921b-e2c6c4f5a3a0)
+
+
 
 ---
 
-## 📬 Contact
 
-For any questions or suggestions, feel free to open an issue or reach out:
-
-* [GitHub]((https://github.com/Poonam-2704))
-
----
 
 ⭐️ **Star this repository** if you found it helpful!
 
